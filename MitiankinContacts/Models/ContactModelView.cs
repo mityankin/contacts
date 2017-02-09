@@ -28,6 +28,6 @@ namespace MitiankinContacts.Models
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Address { get; set; }
-        public List<NumberModelView> Numbers { get; set; }
+        public ICollection<NumberModelView> Numbers { get; set; }
     }
 }
