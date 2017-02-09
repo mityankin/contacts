@@ -1,0 +1,55 @@
+﻿@model MitiankinContacts.Models.ContactModelView
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ContactModelView</h4>
+    <hr />
+    <h3> Deteils of person </h3>
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.LastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.LastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+
+    </dl>
+    <br />
+    <h3> Deteils of phone number </h3>
+    <dl class="dl-horizontal">
+        @{
+            foreach (var number in Model.Numbers)
+            {
+                @Html.DisplayFor(model => number)
+            }
+        }
+    </dl>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.PersonId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
