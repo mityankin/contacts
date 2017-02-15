@@ -1,0 +1,19 @@
+﻿@model Int32
+
+<div class="phoneNumber">
+    <input class="form-control text-box single-line" type="hidden" data-val="true" data-val-number="Значением поля IdInDatabase должно быть число." data-val-required="Требуется поле IdInDatabase." id="Numbers_@{@Model}__IdInDatabase" name="Numbers[@{@Model}].IdInDatabase" type="number" value="0" />
+    <label class="control-label col-md-2" for="Numbers_@{@Model}__IdType">Type</label>
+    <div class="col-md-10">
+        <select class="form-control" data-val="true" data-val-number="Значением поля IdType должно быть число." data-val-required="Требуется поле IdType." id="Numbers_@{@Model}__IdType" name="Numbers[@{@Model}].IdType">
+            @foreach (SelectListItem item in ViewData["TypeList"] as List<SelectListItem>)
+            {
+                @:
+                <option value="@item.Value"> @item.Text</option>
+            }
+        </select>
+    </div>
+    <label class="control-label col-md-2" for="Numbers_@{@Model}__Phone">Phone</label>
+    <div class="col-md-10">
+        <input class="form-control text-box single-line" id="Numbers_@{@Model}__Phone" name="Numbers[@{@Model}].Phone" type="text" value="" />
+        <span class="field-validation-valid text-danger" data-valmsg-for="Numbers[@{@Model}].Phone" data-valmsg-replace="true"></span>
+    </div>

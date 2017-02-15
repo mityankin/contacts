@@ -1,22 +1,11 @@
 ﻿@model MitiankinContacts.Models.NumberModelView
 
-<div class="phoneRow">
-    @Html.LabelFor(model => model.IdInDatabase, htmlAttributes: new { @class = "control-label col-md-2" })
-    <div class="col-md-10">
-        @Html.EditorFor(model => model.IdInDatabase, new { htmlAttributes = new { @class = "form-control" } })
-        @Html.ValidationMessageFor(model => model.IdInDatabase, "", new { @class = "text-danger" })
-    </div>
+<div class="phoneNumber">
 
-    @Html.LabelFor(model => model.IdType, htmlAttributes: new { @class = "control-label col-md-2" })
-    <div class="col-md-10">
-        @Html.EditorFor(model => model.IdType, new { htmlAttributes = new { @class = "form-control" } })
-        @Html.ValidationMessageFor(model => model.IdType, "", new { @class = "text-danger" })
-    </div>
-
+    @Html.HiddenFor(model => model.IdInDatabase)
     @Html.LabelFor(model => model.Type, htmlAttributes: new { @class = "control-label col-md-2" })
     <div class="col-md-10">
-        @Html.EditorFor(model => model.Type, new { htmlAttributes = new { @class = "form-control" } })
-        @Html.ValidationMessageFor(model => model.Type, "", new { @class = "text-danger" })
+        @Html.DropDownListFor(model => model.IdType, ViewData["TypeList"] as List<SelectListItem>, new { @class = "form-control" })
     </div>
 
     @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = "control-label col-md-2" })
@@ -24,6 +13,7 @@
         @Html.EditorFor(model => model.Phone, new { htmlAttributes = new { @class = "form-control" } })
         @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
     </div>
+
     <a href="javascript:void(0);" class="remRow">Remove</a>
 </div>
 

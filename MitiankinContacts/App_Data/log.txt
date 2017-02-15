@@ -1,0 +1,654 @@
+13.02.2017 12:56:25: Chrome/r/nMozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36/r/n//r/n::1/r/nIs user Authenticated -True/r/nIs user admin -False/r/nUser - admin2@admin.com.
+13.02.2017 12:56:59: Chrome/r/nMozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36/r/n/Contact/Details/2/r/n::1/r/nIs user Authenticated -True/r/nIs user admin -False/r/nUser - admin2@admin.com.
+13.02.2017 13:03:30: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:03:33: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Edit/1
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:03:46: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:03:52: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Edit/1
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:04:11: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/CreateNewPhone/0
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:04:27: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Edit/1
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:04:27: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Details/1
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:04:44: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:04:50: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/LogOut
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - admin2@admin.com.
+13.02.2017 13:05:09: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:19: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:32: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:32: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:35: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:35: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:46: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:49: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:49: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:55: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:05:56: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:06:08: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:06:09: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:06:18: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:06:19: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:34:04: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:34:05: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:35:03: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:35:41: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:35:53: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:35:53: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:36:02: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:36:16: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:36:22: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:36:27: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:36:35: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:36:35: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 13:36:43: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Edit/1
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 13:36:49: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Edit/3
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 13:39:02: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 13:39:09: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/LogOut
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 13:39:10: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:39:13: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:39:14: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:48:11: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 13:48:12: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:13:31: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/LogOut
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:13:32: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:20:11: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:20:18: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:20:19: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:20:54: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:22:48: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:22:51: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:22:53: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login
+UserHostAddress - ::1
+Is user Authenticated -False
+Is user admin -False
+User - .
+13.02.2017 14:22:56: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:29:50: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:31:42: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:32:36: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:36:24: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:36:24: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:36:34: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:37:57: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:37:58: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:40:02: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /auth/login?ReturnUrl=%2F
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:40:19: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Auth/Register
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:52:21: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 14:52:33: Browser - Chrome
+UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+RawUrl - /Contact/Details/1
+UserHostAddress - ::1
+Is user Authenticated -True
+Is user admin -False
+User - a@a.
+13.02.2017 15:04:04:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 15:57:55:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:03:51:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:19:17:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:26:20:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:26:20:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:26:23:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:31:38:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:36:53:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:38:37:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:44:01:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:44:02:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 16:45:14:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:11:05:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:12:54:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:14:58:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:27:49:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:32:13:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:33:08:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:34:20:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:36:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:37:58:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:38:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:41:59:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:47:37:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:49:09:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:54:37:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:55:22:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:55:39:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:55:41:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 17:56:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:24:12:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:25:09:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:25:17:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:28:17:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:31:07:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:36:16:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:37:30:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:37:33:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/logout HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:37:33:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+13.02.2017 18:37:58:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+13.02.2017 18:38:04:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+13.02.2017 18:38:05:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 18:39:08:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:21:10:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:21:53:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:21:59:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/CreateNewPhone/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:22:07:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/CreateNewPhone/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:22:13:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/CreateNewPhone/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:22:23:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:22:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:22:47:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:22:50:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:23:04:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/logout HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+13.02.2017 21:23:05:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+13.02.2017 21:23:10:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login?ReturnUrl=%2FContact%2FEdit%2F2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+13.02.2017 21:23:15:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login?ReturnUrl=%2FContact%2FEdit%2F2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+13.02.2017 21:23:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/register HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:08:08:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:11:47:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:12:14:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:12:22:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:17:56:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:18:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:19:04:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:19:39:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:21:34:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:22:22:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:25:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:26:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:28:13:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:30:13:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:34:42:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:35:29:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:36:19:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:40:55:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:43:26:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:45:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:46:10:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:51:18:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:52:35:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:57:19:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:59:16:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login?ReturnUrl=%2FContact%2FDetails%2F1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:59:27:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 9:59:41:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /auth/login HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -False Is user admin -False User - .
+14.02.2017 10:00:01:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:00:47:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:00:57:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:05:46:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:06:55:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:16:02:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:16:52:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:17:43:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:17:52:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:18:00:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:18:04:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:36:32:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:41:14:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:41:14:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:42:42:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:44:27:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:44:46:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:44:52:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:44:57:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:45:02:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:45:14:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/2 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:45:15:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:45:20:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:46:45:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:47:10:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:47:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/3 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:47:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:47:29:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:47:36:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/4 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:47:54:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/4 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:07:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/4 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:07:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/4 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:18:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/5 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:22:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/5 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:37:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/5 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:38:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/5 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:44:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:48:53:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:49:10:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:49:10:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:49:22:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:49:29:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:49:42:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:49:42:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/7 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:50:32:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:50:34:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:50:43:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:50:43:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/8 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:50:47:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:51:39:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:51:47:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Create HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:51:48:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/9 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:51:52:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/9 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:53:36:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/9 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:53:37:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/9 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:55:04:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:55:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:55:27:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/2 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:55:27:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:55:34:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:57:19:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:57:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:57:36:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/6 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:57:38:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:57:46:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:59:26:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:59:32:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/6 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:59:34:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 10:59:38:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:00:16:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/6 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:00:17:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/6 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:00:25:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:00:36:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/7 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:01:00:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/7 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:01:02:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/7 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:01:17:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:02:12:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/8 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:02:17:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/8 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:02:19:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/8 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:02:28:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:02:46:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:22:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/1 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/1 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:30:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:33:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:41:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/2 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:43:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/2 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:47:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:03:54:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:02:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/3 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:02:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/3 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:06:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:11:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/8 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:14:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/CreateNewPhone/0 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Edit/8 HttpMethod - POST UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:24:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - /Contact/Details/8 HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.
+14.02.2017 11:04:30:  Browser - Chrome UserAgent - Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36 RawUrl - / HttpMethod - GET UserHostAddress - ::1 Is user Authenticated -True Is user admin -False User - a@a.

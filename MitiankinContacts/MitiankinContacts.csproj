@@ -79,11 +79,52 @@
       <HintPath>..\packages\Microsoft.ApplicationInsights.2.2.0\lib\net46\Microsoft.ApplicationInsights.dll</HintPath>
       <Private>True</Private>
     </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Core, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Core.2.2.1\lib\net45\Microsoft.AspNet.Identity.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.EntityFramework, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.EntityFramework.2.2.1\lib\net45\Microsoft.AspNet.Identity.EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Identity.Owin, Version=2.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Identity.Owin.2.2.1\lib\net45\Microsoft.AspNet.Identity.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
     <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Owin, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.3.0.1\lib\net45\Microsoft.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Host.SystemWeb, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Host.SystemWeb.3.0.1\lib\net45\Microsoft.Owin.Host.SystemWeb.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.3.0.1\lib\net45\Microsoft.Owin.Security.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.Cookies, Version=3.0.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.Cookies.3.0.1\lib\net45\Microsoft.Owin.Security.Cookies.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Owin.Security.OAuth, Version=2.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Owin.Security.OAuth.2.1.0\lib\net45\Microsoft.Owin.Security.OAuth.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.4.5.11\lib\net40\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
@@ -135,6 +176,7 @@
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
     <Content Include="fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <None Include="Properties\PublishProfiles\ww.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -152,14 +194,21 @@
     <Content Include="Views\Contact\Edit.cshtml" />
     <Content Include="Views\Shared\EditorTemplates\NumberModelView.cshtml" />
     <Content Include="Views\Shared\DisplayTemplates\NumberModelView.cshtml" />
+    <Content Include="Views\Contact\NumberEditorRow.cshtml" />
+    <Content Include="Views\Shared\EditorTemplates\AddNumber.cshtml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppCode\MyFilter.cs" />
+    <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\ContactController.cs" />
     <Compile Include="Domain\EF\DataContext.cs" />
+    <Compile Include="Domain\EF\IdentityContext.cs" />
     <Compile Include="Domain\Entity\Person.cs" />
     <Compile Include="Domain\Entity\Phone.cs" />
     <Compile Include="Domain\Entity\PhoneType.cs" />
+    <Compile Include="Domain\Entity\Security\User.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -199,11 +248,38 @@
     <Compile Include="Migrations\201702090753414_DellSomeRefPhone4.Designer.cs">
       <DependentUpon>201702090753414_DellSomeRefPhone4.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\201702120511070_AddIdetity.cs" />
+    <Compile Include="Migrations\201702120511070_AddIdetity.Designer.cs">
+      <DependentUpon>201702120511070_AddIdetity.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Migrations\IdentityContext\201702120507351_InitialCreate.cs" />
+    <Compile Include="Migrations\IdentityContext\201702120507351_InitialCreate.Designer.cs">
+      <DependentUpon>201702120507351_InitialCreate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\IdentityContext\201702130713283_InitialDatabaseCreation.cs" />
+    <Compile Include="Migrations\IdentityContext\201702130713283_InitialDatabaseCreation.Designer.cs">
+      <DependentUpon>201702130713283_InitialDatabaseCreation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\IdentityContext\Configuration.cs" />
     <Compile Include="Models\ContactModelView.cs" />
+    <Compile Include="Models\GeoModelView.cs" />
+    <Compile Include="Models\GoogleJson\AddressComponent.cs" />
+    <Compile Include="Models\GoogleJson\Geometry.cs" />
+    <Compile Include="Models\GoogleJson\Location.cs" />
+    <Compile Include="Models\GoogleJson\Northeast.cs" />
+    <Compile Include="Models\GoogleJson\Result.cs" />
+    <Compile Include="Models\GoogleJson\RootObject.cs" />
+    <Compile Include="Models\GoogleJson\Southwest.cs" />
+    <Compile Include="Models\GoogleJson\Viewport.cs" />
     <Compile Include="Models\NumberModelView.cs" />
+    <Compile Include="Models\Security\LogInModelView.cs" />
+    <Compile Include="Models\Security\RegisterModelView.cs" />
+    <Compile Include="Models\TypeModelView.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Service\ContactService.cs" />
+    <Compile Include="Service\GoogleAddressAPI.cs" />
+    <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
@@ -215,6 +291,8 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Contact\Index.cshtml" />
     <Content Include="Scripts\jquery-1.10.2.min.map" />
+    <Content Include="Views\Auth\LogIn.cshtml" />
+    <Content Include="Views\Auth\Register.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -252,6 +330,15 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201702090753414_DellSomeRefPhone4.resx">
       <DependentUpon>201702090753414_DellSomeRefPhone4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201702120511070_AddIdetity.resx">
+      <DependentUpon>201702120511070_AddIdetity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\IdentityContext\201702120507351_InitialCreate.resx">
+      <DependentUpon>201702120507351_InitialCreate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\IdentityContext\201702130713283_InitialDatabaseCreation.resx">
+      <DependentUpon>201702130713283_InitialDatabaseCreation.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

@@ -1,15 +1,28 @@
 ﻿@model IEnumerable<MitiankinContacts.Models.ContactModelView>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Contacts";
 }
 
-<h2>Index</h2>
+<h2>Contacts</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @{
+        if (@User.Identity.IsAuthenticated)
+        {
+            @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary active" })
+        }
+        else
+        {
+            @Html.ActionLink("Create New", "Create", null, new { @class = "btn btn-primary disabled" })
+            <div class="alert alert-warning">
+                <strong>Warning!</strong> If you want to create edite or delete an item, please Log In.
+            </div>
+        }
+    }
+   
 </p>
-<table class="table">
+<table class="table table-hover">
     <tr>
         <th>
             @Html.DisplayNameFor(model => model.FirstName)
@@ -35,9 +48,23 @@
             @Html.DisplayFor(modelItem => item.Address)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id = item.PersonId  /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Details", "Details", new { id = item.PersonId /* id=item.PrimaryKey */ }) |
-            @Html.ActionLink("Delete", "Delete", new { id = item.PersonId /* id=item.PrimaryKey */ })
+            @Html.ActionLink("Details", "Details", new { id = item.PersonId }, new { @class = "btn btn-info  btn-sm" }) 
+            
+            @{
+                if (@User.Identity.IsAuthenticated)
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.PersonId }, new { @class = "btn btn-warning  btn-sm" })
+                    <text> </text>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.PersonId }, new { @class = "btn btn-danger  btn-sm" })
+                }
+                else
+                {
+                    @Html.ActionLink("Edit", "Edit", new { id = item.PersonId }, new { @class = "btn btn-warning  btn-sm  disabled" })
+                    <text> </text>
+                    @Html.ActionLink("Delete", "Delete", new { id = item.PersonId }, new { @class = "btn btn-danger  btn-sm  disabled" })
+                }
+            }          
+
         </td>
     </tr>
 }

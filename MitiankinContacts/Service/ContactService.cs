@@ -1,10 +1,12 @@
 ﻿using MitiankinContacts.Domain.EF;
 using MitiankinContacts.Domain.Entity;
 using MitiankinContacts.Models;
+using MitiankinContacts.Models.GoogleJson;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Mvc;
 
 namespace MitiankinContacts.Service
 {
@@ -19,9 +21,7 @@ namespace MitiankinContacts.Service
             using (DataContext db = new DataContext())
             {
                 personList = db.ContactPerson.ToList();
-
                 // Convert Person to ContactModelView
-
                 if (personList != null)
                 {
                     foreach (Person person in personList)
@@ -82,19 +82,23 @@ namespace MitiankinContacts.Service
                 person.FirstName = contactView.FirstName;
                 person.LastName = contactView.LastName;
                 person.Address = contactView.Address;
-                foreach (NumberModelView number in contactView.Numbers)
+                if (contactView.Numbers != null)
                 {
-                    //надо вытащить существующие номера на этом контакте и сравнить
-                    PhoneType type = new PhoneType();
-                    type.TypeName = number.Type;
-                    type.Id = number.IdType;
-                    Phone phone = new Phone();
-                    phone.Id = number.IdInDatabase;
-                    phone.PhoneNumber = number.Phone;
-                    phone.Type = type;
-                    person.PhoneNumbers.Add(phone);
+                    foreach (NumberModelView number in contactView.Numbers)
+                    {
+                        //надо вытащить существующие номера на этом контакте и сравнить
+                        PhoneType type = new PhoneType();
+                        type.TypeName = number.Type;
+                        type.Id = number.IdType;
+                        Phone phone = new Phone();
+                        phone.Id = number.IdInDatabase;
+                        phone.PhoneNumber = number.Phone;
+                        phone.Type = type;
+                        person.PhoneNumbers.Add(phone);
+                    }
                 }
                 personSavedInDataBase = db.ContactPerson.Add(person);
+                db.SaveChanges();
             }
             ContactModelView contactViewSavedInDataBase = new ContactModelView();
             if (personSavedInDataBase != null)
@@ -131,19 +135,67 @@ namespace MitiankinContacts.Service
                     foreach (NumberModelView number in contactView.Numbers)
                     {
                         //надо вытащить существующие номера на этом контакте и сравнить
-                        PhoneType type = new PhoneType();
-                        type.TypeName = number.Type;
-                        type.Id = number.IdType;
-                        Phone phone = new Phone();
-                        phone.Id = number.IdInDatabase;
+                        PhoneType type = db.ContactPhoneType.Find(number.IdType);
+                        Phone phone = null;
+                        if (number.IdInDatabase == 0)
+                        {
+                            phone = db.ContactPhone.Add(new Phone());
+                        }
+                        else
+                        {
+                            phone = db.ContactPhone.Find(number.IdInDatabase);
+                        }                                        
+
                         phone.PhoneNumber = number.Phone;
                         phone.Type = type;
-                        person.PhoneNumbers.Add(phone);
+                        phone.person = person;
+                        if (number.Deleted)
+                        {
+                            db.ContactPhone.Remove(phone);
+                        }
+                        db.SaveChanges();
                     }
                 }
                 db.SaveChanges();
             }
             return GetContactViewById(contactView.PersonId);
+        }
+
+        public static List<SelectListItem> GetTypeList()
+        {
+            List<SelectListItem> listItems = new List<SelectListItem>();
+            using (DataContext db = new DataContext())
+            {
+                List<PhoneType> phoneTypeDataBaseModel = db.ContactPhoneType.ToList();
+                foreach (PhoneType phone in phoneTypeDataBaseModel)
+                {
+                    listItems.Add(new SelectListItem
+                    {
+                        Text = phone.TypeName,
+                        Value = phone.Id.ToString()
+                    });                  
+                }
+            }
+            return listItems;
+        }
+
+        public static GeoModelView GetCoordinats(RootObject googlesJsonInObj)
+        {
+            GeoModelView geo = new GeoModelView();
+            if (googlesJsonInObj!=null && googlesJsonInObj.Status!=null && googlesJsonInObj.Status.Equals("OK"))
+            {
+                if(googlesJsonInObj.Results!=null 
+                    && googlesJsonInObj.Results.FirstOrDefault()!=null
+                    && googlesJsonInObj.Results.FirstOrDefault().Geometry!=null 
+                    && googlesJsonInObj.Results.FirstOrDefault().Geometry.Location != null)
+                {
+                    geo.Lat = googlesJsonInObj.Results.FirstOrDefault().Geometry.Location.Lat;
+                    geo.Lng = googlesJsonInObj.Results.FirstOrDefault().Geometry.Location.Lng;
+                }
+
+                    
+            }
+            return geo;
         }
     }
 }

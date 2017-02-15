@@ -9,7 +9,7 @@ namespace MitiankinContacts.Models
     {
         public ContactModelView()
         {
-
+            Numbers = new List<NumberModelView>();
         }
 
         public ContactModelView(int personId, string firstName, string lastName, string address, List<NumberModelView> numbers)
@@ -23,11 +23,14 @@ namespace MitiankinContacts.Models
                 numbers = new List<NumberModelView>();
             }
             this.Numbers = numbers;
+            this.Deleted = false;
         }
+
         public int PersonId { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Address { get; set; }
-        public ICollection<NumberModelView> Numbers { get; set; }
+        public bool Deleted { get; set; }
+        public List<NumberModelView> Numbers { get; set; }
     }
 }

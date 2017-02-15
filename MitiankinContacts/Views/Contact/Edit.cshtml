@@ -1,22 +1,30 @@
 ﻿@model MitiankinContacts.Models.ContactModelView
+@using MitiankinContacts.Models
 
 @{
     ViewBag.Title = "Edit";
+}
+@{
+   // List<TypeModelView> listItems = @ViewData["TypeList"];
 }
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script type="text/javascript">
     $(document).ready(function(){
         $("#addphone").on('click', function () {
-
+            var count = $(".phoneNumber").length ;
             $.ajax({
                 async: false,
-                url: '/Contact/CreateNewPhone'
+                url: '/Contact/CreateNewPhone/' + count
             }).success(function (partialView) {
-                $('#phoneList').append(partialView);
+                $('#phoneNumber').append(partialView);
             });
         });
         $(".remRow").click(function () {
-            $(this).closest("div").remove();
+            $(this).closest("div").hide();
+            var myDiv = $(this).closest("div");
+            var index = myDiv.index();
+           
+            $(this).closest("div").append("<input class='form-control text-box single-line' id='Numbers_" + index + "__Deleted' name='Numbers[" + index + "].Deleted' type='text' value='true' />");
         });
 
     });
@@ -33,14 +41,7 @@
         <h4>ContactModelView</h4>
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
-        <div class="form-group">
-            @Html.LabelFor(model => model.PersonId, htmlAttributes: new { @class = "control-label col-md-2" })
-            <div class="col-md-10">
-                @Html.EditorFor(model => model.PersonId, new { htmlAttributes = new { @class = "form-control" } })
-                @Html.ValidationMessageFor(model => model.PersonId, "", new { @class = "text-danger" })
-            </div>
-        </div>
-
+        @Html.HiddenFor(model => model.PersonId, new { htmlAttributes = new { @class = "form-control" } })
         <div class="form-group">
             @Html.LabelFor(model => model.FirstName, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
@@ -65,13 +66,10 @@
             </div>
         </div>
 
-        <div class="form-group" id="phoneList">
-            @{
-                foreach (var number in Model.Numbers)
-                {
-                    @Html.EditorFor(model => number)
-                }
-            }
+        <div class="form-group" id="phoneNumber">
+        @Html.EditorFor(x => x.Numbers)
+            
+
         </div>
 
         <input type="button" id="addphone" name="addphone" value="Add phone" />

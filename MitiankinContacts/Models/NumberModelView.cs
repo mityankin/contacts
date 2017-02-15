@@ -19,11 +19,13 @@ namespace MitiankinContacts.Models
             this.Type = type;
             this.IdInDatabase = IdInDatabase;
             this.IdType = IdType;
+            this.Deleted = false;
         }
         public int IdInDatabase { get; set; }
         public string Phone { get; set; }
         public int IdType { get; set; }
         public string Type { get; set; }
+        public bool Deleted { get; set; }
 
     }
 }
